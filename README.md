@@ -48,11 +48,7 @@ HTML5 • CSS3 • JavaScript
 
 ---
 
-## 🚀 Getting Started
 
-Clone the repository and open `index.html` in your browser.
-
----
 
 ## ⭐ If you like this project
 
