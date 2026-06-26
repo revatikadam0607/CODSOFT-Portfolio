@@ -12,7 +12,7 @@ A modern developer portfolio showcasing my projects, technical skills, achieveme
 
 ### ✨ Live Demo
 
-*Add your deployed portfolio link here*
+(https://revati-kadam-portfolio.netlify.app/)
 
 ### 💻 Tech Stack
 
